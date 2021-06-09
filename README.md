@@ -8,7 +8,7 @@
 🎓 &nbsp;I'm currently studying at Electronic and Telecommunication Engineering department, University of Moratuwa.\
 🌱 &nbsp;I'm on track for learning more about Internet of Things, Systems Design, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I pursue watching TV Series, Writing codes as hobbies/side hustles.\
-✉️ &nbsp;You can shoot me an email at tlmannapperuma@gmail.com or tharuka@mannapperuma.com!
+✉️ &nbsp;You can shoot me an email at tlmannapperuma@gmail.com or tharuka@mannapperuma.com!\
 &nbsp;&nbsp;I'll try to respond as soon as I can.\
 🌎 &nbsp;You can visit my portfolio through https://mannapperuma.com
 
