@@ -43,7 +43,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://mannapperuma.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Microsoft-Edge&logoColor=white"/></a>
+<a href="https://mannapperuma.com"><img src="https://img.shields.io/badge/-mannapperuma.com-3423A6?style=flat&logo=Microsoft-Edge&logoColor=white"/></a>
 <a href="https://linkedin.com/in/tharukamannapperuma"><img src="https://img.shields.io/badge/-Tharuka%20Mannapperuma-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:tlmannapperuma@gmail.com"><img src="https://img.shields.io/badge/-tlmannapperuma@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
