@@ -12,7 +12,7 @@
 🌎 &nbsp;You can visit my portfolio through https://mannapperuma.com \
 📜 &nbsp;You can find my achievements [here](https://www.credly.com/users/tharukamannapperuma/badges)
 
-<img alt="Coding" src="./assets/coding.gif" align="right" width="50%"/>
+<img alt="Coding" src="./assets/coding.gif" align="right" width="30%"/>
 
 ### 🛠 &nbsp;Tech Stack
 
