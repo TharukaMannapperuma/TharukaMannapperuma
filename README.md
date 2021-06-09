@@ -31,7 +31,6 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=Arduino&logoColor=00979D)&nbsp;
 ![Codeigniter](https://img.shields.io/badge/-Codeigniter-05122A?style=flat&logo=CodeIgniter&logoColor=EF4223)&nbsp;\
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
