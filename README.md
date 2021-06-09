@@ -1,6 +1,31 @@
 ![Tharuka Mannapperuma Banner](https://raw.githubusercontent.com/TharukaMannapperuma/TharukaMannapperuma/main/assets/banner.png?token=ALWOI4NZVTQ5UREO6Z5WDYDAZIDMO)
 
+<style>
+.wave {
+  animation-name: wave-animation;  /* Refers to the name of your @keyframes element below */
+  animation-duration: 2.5s;        /* Change to speed up or slow down */
+  animation-iteration-count: infinite;  /* Never stop waving :) */
+  transform-origin: 70% 70%;       /* Pivot around the bottom-left palm */
+  display: inline-block;
+}
+
+@keyframes wave-animation {
+    0% { transform: rotate( 0.0deg) }
+   10% { transform: rotate(14.0deg) }  /* The following five values can be played with to make the waving more or less extreme */
+   20% { transform: rotate(-8.0deg) }
+   30% { transform: rotate(14.0deg) }
+   40% { transform: rotate(-4.0deg) }
+   50% { transform: rotate(10.0deg) }
+   60% { transform: rotate( 0.0deg) }  /* Reset for the last half to pause */
+  100% { transform: rotate( 0.0deg) }
+}
+/* For demonstration purposes only: */
+body { font-size: 3.5em }
+h1 { font-size: 0.5em }
+</style>
+
 <img alt="Night Coding" src="./assets/hand.png" width='40' align="left"/><h2>Hey there! I'm Tharuka</h2>
+<span class="wave">👋</span>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -47,5 +72,5 @@
 <a href="https://linkedin.com/in/tharukamannapperuma"><img src="https://img.shields.io/badge/-Tharuka%20Mannapperuma-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:tlmannapperuma@gmail.com"><img src="https://img.shields.io/badge/-tlmannapperuma@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://facebook.com/t"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
