@@ -20,7 +20,7 @@
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node-RED](https://img.shields.io/badge/-Node-RED-05122A?style=flat&logo=Node-RED&logoColor=8F0000)&nbsp;\
+![Node-RED](https://img.shields.io/badge/-NodeRED-05122A?style=flat&logo=Node-RED&logoColor=8F0000)&nbsp;\
 ![php](https://img.shields.io/badge/-php-05122A?logo=php&logoColor=777BB4&style=flat)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
