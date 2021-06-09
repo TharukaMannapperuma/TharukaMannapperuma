@@ -1,6 +1,6 @@
 ![Tharuka Mannapperuma Banner](https://raw.githubusercontent.com/TharukaMannapperuma/TharukaMannapperuma/main/assets/banner.png?token=ALWOI4NZVTQ5UREO6Z5WDYDAZIDMO)
 
-<span class="wave" align='left'>👋<h2>Hey there! I'm Tharuka</h2></span>
+<img class="wave" align='left'>👋</img><h2>Hey there! I'm Tharuka</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
