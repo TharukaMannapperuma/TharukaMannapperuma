@@ -12,7 +12,7 @@
 🌎 &nbsp;You can visit my portfolio through https://mannapperuma.com \
 📜 &nbsp;You can find my achievements [here](https://www.credly.com/users/tharukamannapperuma/badges)
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Coding" src="./assets/coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
