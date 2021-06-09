@@ -1,4 +1,5 @@
 ![Tharuka Mannapperuma Banner](https://raw.githubusercontent.com/TharukaMannapperuma/TharukaMannapperuma/main/assets/banner.png?token=ALWOI4NZVTQ5UREO6Z5WDYDAZIDMO)
+
 <img alt="Night Coding" src="./assets/hand.png" width='40' align="left"/><h2>Hey there! I'm Tharuka</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
