@@ -8,7 +8,7 @@
 🎓 &nbsp;I'm currently studying at Electronic and Telecommunication Engineering department, University of Moratuwa.\
 🌱 &nbsp;I'm on track for learning more about Internet of Things, Systems Design, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I pursue watching TV Series, Writing codes as hobbies/side hustles.\
-✉️ &nbsp;You can contact me through tlmannapperuma@gmail.com or tharuka@mannapperuma.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can contact me through [Gmail](tlmannapperuma@gmail.com) or tharuka@mannapperuma.com! I'll try to respond as soon as I can.\
 🌎 &nbsp;You can visit my portfolio through https://mannapperuma.com
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
