@@ -46,6 +46,7 @@
 <a href="https://mannapperuma.com"><img src="https://img.shields.io/badge/-mannapperuma.com-3423A6?style=flat&logo=Microsoft-Edge&logoColor=white"/></a>
 <a href="https://linkedin.com/in/tharukamannapperuma"><img src="https://img.shields.io/badge/-Tharuka%20Mannapperuma-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:tlmannapperuma@gmail.com"><img src="https://img.shields.io/badge/-tlmannapperuma@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:tlmannapperuma@gmail.com"><img src="https://img.shields.io/badge/-tlmannapperuma@gmail.com-30B980?style=flat&logo=Minutemailer&logoColor=white"/></a>
 <a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/t"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
