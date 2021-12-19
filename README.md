@@ -50,6 +50,6 @@
 <a href="https://linkedin.com/in/tharukamannapperuma"><img src="https://img.shields.io/badge/-Tharuka%20Mannapperuma-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:tlmannapperuma@gmail.com"><img src="https://img.shields.io/badge/-tlmannapperuma@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="mailto:tharuka@mannapperuma.com"><img src="https://img.shields.io/badge/-tharuka@mannapperuma.com-30B980?style=flat&logo=Minutemailer&logoColor=white"/></a>
-<a href="https://facebook.com/tharukamannapperuma"><img src="https://img.shields.io/badge/-@Tharuka-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://facebook.com/tlmannapperuma"><img src="https://img.shields.io/badge/-@Tharuka-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 
 </p>
